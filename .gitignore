@@ -1,0 +1,5 @@
+# Ignorar arquivos e pastas de dados
+data/
+*.parquet
+*.zip
+*.csv
